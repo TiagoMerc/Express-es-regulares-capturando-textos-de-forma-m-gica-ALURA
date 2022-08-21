@@ -33,6 +33,10 @@ O que aprendemos?
 
 - . é um meta-char que significa qualquer char.
 
-- Com **\** podemos escapar meta-chars, por exemplo **\.**.
+- Com \ podemos escapar meta-chars, por exemplo \..
+
+**Encontrando o CEP**
+
+![Encontrando o CEP](./imgs/prints/EncontrandoCEP.png)
 
 ### 02. Classes de caracteres 
