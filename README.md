@@ -101,3 +101,20 @@ O que aprendemos?
 - **^** é uma âncora que seleciona o início da string alvo.
 
 - **$** é uma âncora que seleciona o fim do alvo.
+
+### 04. Trabalhando com grupos 
+
+O que aprendemos?
+
+- Declaramos um grupo com **()**.
+
+- Podemos ter grupos e subgrupos.
+
+- Um grupo é retornado na hora de executar, são úteis para selecionar uma parte do match.
+
+- Através do **?:**, dizemos que não queremos ver esse grupo na resposta
+
+![Trabalhando com âncoras](./imgs/prints/trabalhandoComGrupos.png)
+
+### 05. Ganancioso ou preguiçoso
+ 
