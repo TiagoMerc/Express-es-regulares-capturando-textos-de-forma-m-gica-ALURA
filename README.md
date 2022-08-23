@@ -9,8 +9,7 @@ Faça esse curso de JavaScript e:
  - Use classes, âncoras, quantifiers e grupos
  - Execute expressões regulares na sua linguagem
 
-GitHub Pages 
-
+**GitHub Pages** 
 [Acessem](https://tiagomerc.github.io/Express-es-regulares-capturando-textos-de-forma-m-gica-ALURA/)
 
 ### 01. Começando com Regex
@@ -84,3 +83,21 @@ O que aprendemos?
 - **\w** significa word char e é uma atalho para **[A-Za-z0-9_]**.
 
 ## 03. Encontrando a posição certa com âncoras 
+
+**\b - Word boundary** 
+
+![Word Boundary](./imgs/prints/wordBoundary.png)
+
+**Âncoras de Início e fim**
+
+![Âncoras de Início e fim](./imgs/prints/ancorasInicioEFim.png/)
+
+O que aprendemos?
+
+- Existem âncoras predefinidas que selecionam uma posição dentro do alvo.
+
+- **\b** é uma âncora que seleciona um word boundary, isso é o início ou fim da palavra.
+
+- **^** é uma âncora que seleciona o início da string alvo.
+
+- **$** é uma âncora que seleciona o fim do alvo.
