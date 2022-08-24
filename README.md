@@ -117,4 +117,15 @@ O que aprendemos?
 ![Trabalhando com âncoras](./imgs/prints/trabalhandoComGrupos.png)
 
 ### 05. Ganancioso ou preguiçoso
- 
+
+O que aprendemos?
+
+Aprendemos que quantifiers são gananciosos por padrão e que podemos utilizar um **?** logo após o quantifier, deixando-o preguiçoso. Também aprendemos como podemos referenciar o texto de um grupo dentro da regex, aonde **n** é o número do grupo.
+
+**Regex Ganancioso**
+
+![](./imgs/prints/RegexGanancioso.png)
+
+**Regex Preguiçoso**
+
+![](./imgs/prints/RegexPreguicoso.png)
