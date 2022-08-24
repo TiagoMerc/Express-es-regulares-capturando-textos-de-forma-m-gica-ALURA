@@ -1,0 +1,14 @@
+<html>
+
+<script>
+   var arquivo = '100,200-150,200;20';
+   var valores = arquivo.split(',');
+   console.log(valores); //['100', '200-150', '200;20']
+
+   console.log("Atualização da posição com a expressão regular")
+   var exp = /[,;-]/;
+   var valores = arquivo.split(exp);
+   console.log(valores); //["100", "200", "150", "200", "20"] 
+</script>
+
+</html>

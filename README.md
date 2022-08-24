@@ -129,3 +129,13 @@ Aprendemos que quantifiers são gananciosos por padrão e que podemos utilizar u
 **Regex Preguiçoso**
 
 ![](./imgs/prints/RegexPreguicoso.png)
+
+### 06. Usando regex nas diversas linguagens
+
+**Regex com JavaScript**
+
+![Regex com JavaScript](./imgs/prints/RegexJS.png) 
+
+ **[Python] Regex com Python**
+
+ ![Regex com Python](./imgs/prints/regexPython.png)
